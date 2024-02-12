@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height"100%"/>
+  <img src="https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="1000", height="300"/>
 </p>
 
 <h1 align="center">
