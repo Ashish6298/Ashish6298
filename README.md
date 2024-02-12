@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="\https://www.shutterstock.com/image-vector/hello-world-code-illustration-coding-concept-1239139120" height="200"/>
+  <img src="[\https://www.shutterstock.com/image-vector/hello-world-code-illustration-coding-concept-1239139120](https://www.pexels.com/photo/photo-of-turned-on-laptop-computer-943096/)" height="200"/>
 </p>
 
 <h1 align="center">
