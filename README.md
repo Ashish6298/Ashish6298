@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.pexels.com/photos/943096/pexels-photo-943096.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="1000" height="300"/>
+<img src="https://res.cloudinary.com/dl9kcah0x/image/upload/v1776141866/ashish_goswami_readme_banner_1776141450609_w6rmif.jpg"/>
 </p>
 
 ## 👋 Hello World!
