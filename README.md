@@ -40,8 +40,10 @@ I'm Ashish Goswami, a passionate Information Science & Engineering undergraduate
   <a href="https://github.com/Ashish6298">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
+  <a href="https://portfolio-omega-sand-67.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
 </div>
-
 ---
 
 ## 🚀 Languages & Tools :
