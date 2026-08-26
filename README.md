@@ -134,7 +134,7 @@ Designing scalable, maintainable, and enterprise-grade systems.
 
 <br>
 
-<div align="center">
+<div align="left">
 
 > 💙 **Building software that is scalable, maintainable, and impactful—one project at a time.**
 
@@ -228,82 +228,136 @@ A curated collection of technologies, frameworks, platforms, and developer tools
 <td>
 
 <h2 align="center">
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Chart%20increasing/3D/chart_increasing_3d.png" width="34">
-Engineering Status
+
+Current Sprint
 </h2>
 
 <p align="center">
-
-A quick snapshot of the technologies, domains, and engineering disciplines I'm currently focused on.
-
+A live view into what I'm learning, building, shipping, and have shipped.
 </p>
 
 <br>
 
-```console
-ashish@github:~$ engineering_status
+<div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<span style="white-space: nowrap;">
 
-🤖 Artificial Intelligence      ████████████████████ 100%
+![](https://img.shields.io/badge/STATUS-Always%20Building-00d084?style=for-the-badge&labelColor=0d1117) &nbsp; ![](https://img.shields.io/badge/FOCUS-Agentic%20AI%20%E2%80%A2%20Distributed%20Systems-818cf8?style=for-the-badge&labelColor=0d1117) &nbsp; ![](https://img.shields.io/badge/POWER-Coffee%20%2B%20Curiosity%20%E2%80%A2%20%E2%88%9E-f59e0b?style=for-the-badge&labelColor=0d1117)
 
-🌐 Full Stack Development       ██████████████████░░  92%
+</span>
 
-📱 Mobile Engineering           █████████████████░░░  88%
-
-🏗️ System Architecture          ████████████████░░░░  84%
-
-🛠️ Developer Tools             ███████████████░░░░░  80%
-
-☁️ Cloud & DevOps              █████████████░░░░░░░  74%
-
-🌍 Open Source                 ████████████░░░░░░░░  68%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🟢 STATUS        : Always Building
-🚀 CURRENT GOAL  : Ship impactful software
-🧠 LEARNING      : Agentic AI • Distributed Systems
-☕ POWER SOURCE  : Coffee + Curiosity
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-</td>
-</tr>
-</table>
+</div>
 <br>
+
 <table align="center" width="100%">
-<tr>
-<td>
+  <tr>
+    <th align="center" width="25%">🌱&nbsp;Learning</th>
+    <th align="center" width="25%">🔨&nbsp;Building</th>
+    <th align="center" width="25%">🚀&nbsp;Shipping</th>
+    <th align="center" width="25%">✅&nbsp;Mastered</th>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><br>
+      Agentic AI<br><br>
+      Distributed Systems<br><br>
+      Advanced Cloud<br><br>
+      LLM Fine-tuning<br><br>
+    </td>
+    <td align="left" valign="top"><br>
+      AI-powered Apps<br><br>
+      System Architecture<br><br>
+      DevOps Pipelines<br><br>
+      K8s Orchestration<br><br>
+    </td>
+    <td align="left" valign="top"><br>
+      Full Stack Platforms<br><br>
+      Mobile Apps<br><br>
+      Cloud Deployments<br><br>
+      Open Source Modules<br><br>
+    </td>
+    <td align="left" valign="top"><br>
+      Flutter &amp; Dart<br><br>
+      React / Next.js<br><br>
+      Node.js &amp; Firebase<br><br>
+      REST &amp; GraphQL<br><br>
+    </td>
+  </tr>
+</table>
 
-<h2 align="center">
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Trophy/3D/trophy_3d.png" width="34">
-Achievement Terminal
-</h2>
+<br>
 
-```bash
-ashish@github:~$ achievements
+<div align="left">
 
-✔ Open Source Contributor
+>  _"Building systems that **think**, architectures that **scale**, and software that actually **matters**."_
 
-✔ Production Software Builder
+</div>
 
-✔ AI Engineer
-
-✔ Full Stack Developer
-
-✔ Mobile Developer
-
-✔ Lifelong Learner
-
-Loading Achievement Badges...
-
-████████████████████████████ 100%
-```
 </td>
 </tr>
 </table>
+
+<br>
+@@ git log --author="Ashish Goswami" --achievements --reverse @@
+
+<br>
+
+  commit a3f8d21   HEAD → main   tag: software-engineer
+
+
++ 🤖  AI ENGINEER
++     Designing intelligent systems · LLM-powered apps · AI automation
++     in production — from idea to deployed, real users, real impact.
++
++     Stack  →  Python · LangChain · GPT-4 · TensorFlow · FastAPI
+
+
+  commit b7e2c19   tag: fullstack-developer
+
++ 🌐  FULL STACK DEVELOPER
++     Building end-to-end platforms — pixel-perfect frontends wired
++     to cloud-scale backends with clean, maintainable APIs.
++
++     Stack  →  React · Next.js · Node.js · MongoDB · GraphQL
+
+
+  commit c1d9f47   tag: mobile-developer
+
++ 📱  MOBILE DEVELOPER
++     Shipping cross-platform Flutter apps — smooth, native-feeling,
++     and production-ready across Android & iOS.
++
++     Stack  →  Flutter · Dart · Firebase · Android Studio
+
+
+  commit e4a8b63   tag: system-architect
+
++ 🏗️  SYSTEM ARCHITECT
++     Designing distributed, fault-tolerant systems that scale —
++     microservices, event-driven architecture, cloud-native infra.
++
++     Stack  →  Docker · Kubernetes · AWS · Azure · Microservices
+
+
+  commit f2c5e91   tag: open-source-contributor
+
++ 🌍  OPEN SOURCE CONTRIBUTOR
++     Writing code the community depends on · reviewing PRs ·
++     building in public and giving back to the ecosystem.
++
++     Stack  →  GitHub · OSS Projects · Code Reviews · Issues
+
+
+  commit g8h3i76   tag: v1.0.0-init
+
++ 🚀  PRODUCTION SOFTWARE BUILDER
++     Shipping software that runs in the real world, for real users,
++     solves real problems — and keeps running at 3 AM.
++
++     Stack  →  CI/CD · DevOps · Testing · Monitoring · Scale
+
+
+@@ ─── 6 achievements unlocked · ∞ commits remaining ─── @@
+
 
 <br>
 
