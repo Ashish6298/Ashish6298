@@ -150,59 +150,6 @@ Designing scalable, maintainable, and enterprise-grade systems.
 <td>
 
 <h2 align="center">
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Handshake/3D/handshake_3d.png" width="34">
-Let's Connect
-</h2>
-
-<p align="center">
-
-I'm always open to discussing **software engineering**, **AI**, **open-source collaboration**, **innovative projects**, or simply connecting with fellow developers around the world.
-
-Whether you have an idea, an opportunity, or just want to say hello—I'd love to hear from you!
-
-</p>
-
-<br>
-
-<p align="center">
-
-<a href="mailto:ashishgoswami1013@gmail.com">
-  <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="55" alt="Email"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://in.linkedin.com/in/ashish-goswami-58797a24a">
-  <img src="https://img.icons8.com/fluency/96/linkedin.png" width="55" alt="LinkedIn"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Ashish6298">
-  <img src="https://img.icons8.com/fluency/96/github.png" width="55" alt="GitHub"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://portfolio-omega-sand-67.vercel.app/">
-  <img src="https://img.icons8.com/fluency/96/domain.png" width="55" alt="Portfolio"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://twitter.com/_ashish_goswami">
-  <img src="https://img.icons8.com/fluency/96/twitterx.png" width="55" alt="Twitter"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/a.s.h.i.s.h__g.o.s.w.a.m.i?igsh=OWc0OTI0Y3FoajFr">
-  <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="55" alt="Instagram"/>
-</a>
-
-</p>
-</td>
-</tr>
-</table>
-
-<br>
-
-
-<table align="center" width="100%">
-<tr>
-<td>
-
-<h2 align="center">
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Toolbox/3D/toolbox_3d.png" width="34">
 Languages & Tools
 </h2>
@@ -357,3 +304,56 @@ Loading Achievement Badges...
 </td>
 </tr>
 </table>
+
+<br>
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+<h2 align="center">
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Handshake/3D/handshake_3d.png" width="34">
+Let's Connect
+</h2>
+
+<p align="center">
+
+I'm always open to discussing **software engineering**, **AI**, **open-source collaboration**, **innovative projects**, or simply connecting with fellow developers around the world.
+
+Whether you have an idea, an opportunity, or just want to say hello—I'd love to hear from you!
+
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="mailto:ashishgoswami1013@gmail.com">
+  <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="55" alt="Email"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://in.linkedin.com/in/ashish-goswami-58797a24a">
+  <img src="https://img.icons8.com/fluency/96/linkedin.png" width="55" alt="LinkedIn"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/Ashish6298">
+  <img src="https://img.icons8.com/fluency/96/github.png" width="55" alt="GitHub"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://portfolio-omega-sand-67.vercel.app/">
+  <img src="https://img.icons8.com/fluency/96/domain.png" width="55" alt="Portfolio"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://twitter.com/_ashish_goswami">
+  <img src="https://img.icons8.com/fluency/96/twitterx.png" width="55" alt="Twitter"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/a.s.h.i.s.h__g.o.s.w.a.m.i?igsh=OWc0OTI0Y3FoajFr">
+  <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="55" alt="Instagram"/>
+</a>
+
+</p>
+</td>
+</tr>
+</table>
+
