@@ -297,61 +297,85 @@ A live view into what I'm learning, building, shipping, and have shipped.
 </table>
 
 <br>
-@@ git log --author="Ashish Goswami" --achievements --reverse @@
+<table align="center" width="100%">
+
+<tr>
+
+<td>
+
+<h2 align="center">
+
+🏆&nbsp; Achievement Timeline
+
+</h2>
+
+<p align="center">
+
+<code>@@ git log --author="Ashish Goswami" --achievements --reverse @@</code>
+
+</p>
 
 <br>
 
-  commit a3f8d21   HEAD → main   tag: software-engineer
+<pre>
+
+  <b>commit a3f8d21   HEAD → main   tag: software-engineer</b>
 
 
-+ 🤖  AI ENGINEER
+<b>+ 🤖 AI ENGINEER</b>
 +     Designing intelligent systems · LLM-powered apps · AI automation
 +     in production — from idea to deployed, real users, real impact.
 +     Stack  →  Python · LangChain · GPT-4 · TensorFlow · FastAPI
 
 
-  commit b7e2c19   tag: fullstack-developer
+  <b>commit b7e2c19   tag: fullstack-developer</b>
 
-+ 🌐  FULL STACK DEVELOPER
+<b>+ 🌐 FULL STACK DEVELOPER</b>
 +     Building end-to-end platforms — pixel-perfect frontends wired
 +     to cloud-scale backends with clean, maintainable APIs.
 +     Stack  →  React · Next.js · Node.js · MongoDB · GraphQL
 
 
-  commit c1d9f47   tag: mobile-developer
+  <b>commit c1d9f47   tag: mobile-developer</b>
 
-+ 📱  MOBILE DEVELOPER
+<b>+ 📱 MOBILE DEVELOPER</b>
 +     Shipping cross-platform Flutter apps — smooth, native-feeling,
-+     and production-ready across Android & iOS.
++     and production-ready across Android &amp; iOS.
 +     Stack  →  Flutter · Dart · Firebase · Android Studio
 
 
-  commit e4a8b63   tag: system-architect
+  <b>commit e4a8b63   tag: system-architect</b>
 
-+ 🏗️  SYSTEM ARCHITECT
+<b>+ 🏗️ SYSTEM ARCHITECT</b>
 +     Designing distributed, fault-tolerant systems that scale —
 +     microservices, event-driven architecture, cloud-native infra.
 +     Stack  →  Docker · Kubernetes · AWS · Azure · Microservices
 
 
-  commit f2c5e91   tag: open-source-contributor
+  <b>commit f2c5e91   tag: open-source-contributor</b>
 
-+ 🌍  OPEN SOURCE CONTRIBUTOR
+<b>+ 🌍 OPEN SOURCE CONTRIBUTOR</b>
 +     Writing code the community depends on · reviewing PRs ·
 +     building in public and giving back to the ecosystem.
 +     Stack  →  GitHub · OSS Projects · Code Reviews · Issues
 
 
-  commit g8h3i76   tag: v1.0.0-init
+  <b>commit g8h3i76   tag: v1.0.0-init</b>
 
-+ 🚀  PRODUCTION SOFTWARE BUILDER
+<b>+ 🚀 PRODUCTION SOFTWARE BUILDER</b>
 +     Shipping software that runs in the real world, for real users,
 +     solves real problems — and keeps running at 3 AM.
 +     Stack  →  CI/CD · DevOps · Testing · Monitoring · Scale
 
 
-@@ ─── 6 achievements unlocked · ∞ commits remaining ─── @@
+<b>@@ ─── 6 achievements unlocked · ∞ commits remaining ─── @@
+</pre>
 
+</td>
+
+</tr>
+
+</table>
 
 <br>
 
@@ -375,12 +399,21 @@ GitHub At a Glance
 </a>
 
 <br>
+<br>
+
+<table align="center" width="100%">
+<tr>
+<td align="center">
 
 <p align="center">
 <a href="https://github.com/Ashish6298">
 <img src="https://streak-stats.demolab.com?user=Ashish6298&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" width="65%" />
 </a>
 </p>
+
+</td>
+</tr>
+</table>
 
 <br>
 
