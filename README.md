@@ -33,9 +33,9 @@ Building software that combines **Artificial Intelligence**, **Developer Experie
 
 <div align="center">
 
-| 🏗️ **Building** | 🤖 **Learning** | ❤️ **Passionate About** | 🚀 **Mission** |
-|:---------------:|:---------------:|:-----------------------:|:--------------:|
-| Production Software | Agentic AI | Open Source | Build Things That Matter |
+| 🏗️ **Building** | 🤖 **Learning** | ❤️ **Passionate About** | 🚀 **Mission** | 👀 **Explorer Count** |
+|:---------------:|:---------------:|:-----------------------:|:--------------:|:------------:|
+| Production Software | Agentic AI | Open Source | Build Things That Matter | <img src="https://komarev.com/ghpvc/?username=Ashish6298&style=flat-square&color=00d084&labelColor=0d1117" alt="Profile Views" /> |
 
 </div>
 
@@ -45,8 +45,7 @@ Building software that combines **Artificial Intelligence**, **Developer Experie
 
 </td>
 </tr>
-</table>
-<br>
+</table><br>
 
 <table align="center" width="100%">
 <tr>
