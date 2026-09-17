@@ -149,14 +149,12 @@ Designing scalable, maintainable, and enterprise-grade systems.
 <td>
 
 <h2 align="center">
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Toolbox/3D/toolbox_3d.png" width="34">
-Languages & Tools
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Toolbox/3D/toolbox_3d.png" width="34">
+  Languages & Tools
 </h2>
 
 <p align="center">
-
-A curated collection of technologies, frameworks, platforms, and developer tools that I use to design, build, deploy, and scale modern software solutions.
-
+  A curated collection of technologies, frameworks, platforms, AI tools, payment solutions, and developer tools that I use to design, build, deploy, and scale modern software solutions.
 </p>
 
 <br/>
@@ -164,7 +162,7 @@ A curated collection of technologies, frameworks, platforms, and developer tools
 ### 📱 Mobile Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,androidstudio,swift" />
 </p>
 
 ---
@@ -172,7 +170,7 @@ A curated collection of technologies, frameworks, platforms, and developer tools
 ### 🌐 Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vite" />
 </p>
 
 ---
@@ -180,23 +178,7 @@ A curated collection of technologies, frameworks, platforms, and developer tools
 ### ⚙️ Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,python,go" />
-</p>
-
----
-
-### 🗄️ Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite" />
-</p>
-
----
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,python,go,cs,dotnet,fastapi,django,flask" />
 </p>
 
 ---
@@ -204,7 +186,75 @@ A curated collection of technologies, frameworks, platforms, and developer tools
 ### 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,go,swift,dart" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,go,swift,dart" />
+</p>
+
+---
+
+### 🗄️ Databases & Caching
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase,supabase" />
+</p>
+
+---
+
+### 🤖 AI & LLMs
+
+<p align="center">
+<img src="https://api.iconify.design/simple-icons:openai.svg" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/anthropic/000000" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/meta/0467DF" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/githubcopilot/000000" width="40" height="40" />
+</p>
+
+---
+
+### 💳 Payments & FinTech
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/stripe/635BFF" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/razorpay/3395FF" width="40" height="40" />
+</p>
+
+---
+
+### 🔐 Authentication & Security
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
+  <img src="https://cdn.simpleicons.org/auth0/EB5424" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="40" height="40" />
+<img src="https://api.iconify.design/logos:oauth.svg" width="40" height="40" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,bash,nginx,cloudflare" />
+</p>
+
+---
+
+### 🚀 Deployment & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,nginx,docker,linux" />
+  <img src="https://cdn.simpleicons.org/pm2/2B037A" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/render" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/railway" width="40" height="40" />
+</p>
+
+---
+
+### 🔌 APIs & Integrations
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=graphql,postman" />
+<img src="https://api.iconify.design/logos:websocket.svg" width="40" height="40" />
 </p>
 
 ---
@@ -212,8 +262,57 @@ A curated collection of technologies, frameworks, platforms, and developer tools
 ### 🛠️ Developer Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,npm" />
 </p>
+
+---
+
+### 🧩 Frameworks & Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,dotnet,nextjs,react" />
+</p>
+
+---
+
+### 📦 Package Managers & Build Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,vite,webpack" />
+</p>
+
+---
+
+### 🎨 UI / UX & Design
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,tailwind,sass" />
+</p>
+
+---
+
+### 🔄 Version Control & Collaboration
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
+
+---
+
+### 📡 Communication & Cloud Services
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,cloudflare" />
+</p>
+
+---
+
+### 🖥️ Operating Systems & Shell
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,windows" />
+</p>
+
 
 
 </td>
