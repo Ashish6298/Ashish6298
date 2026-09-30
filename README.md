@@ -1,55 +1,58 @@
 <p align="center">
-<img src="https://res.cloudinary.com/dl9kcah0x/image/upload/v1776141866/ashish_goswami_readme_banner_1776141450609_w6rmif.jpg"/>
+<img src="https://res.cloudinary.com/dl9kcah0x/image/upload/v1790762196/ezgif.com-gif-maker_d6qicm.gif" width="100%"/>
 </p>
 
 <br>
 
-<div align="center">
-
-| 👨‍💻 **Developer** | 💼 **Role** | 📍 **Location** | ❤️ **Interests** |
-|:---:|:---:|:---:|:---:|
-| Ashish Goswami | Software Engineer | 🇮🇳 India | AI • Full Stack • Mobile • Cloud • Open Source |
-
-</div>
+```yaml
+whoami:
+  name: "Ashish Goswami"
+  role: "Software Engineer"
+  location: "India 🇮🇳"
+  focus: ["AI", "Full Stack", "Mobile", "Cloud", "Open Source"]
+  fun_fact: "Runs on coffee and curiosity ☕"
+  status: "always building 🚀"
+  reach_me: "ashishgoswami1013@gmail.com"
+```
 
 <br>
-
-<table align="center" width="100%">
-<tr>
-<td>
 
 <h2 align="center">
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="34">
 Engineering Playground
+<img src="https://komarev.com/ghpvc/?username=Ashish6298&style=plastic&color=00d084&labelColor=0d1117" alt="Profile Views" />
 </h2>
 
-<p align="center">
+```bash
+# combining AI + Developer Experience + Scalable Architecture → real-world impact
 
-Building software that combines **Artificial Intelligence**, **Developer Experience**, and **Scalable Architecture** to solve real-world problems.
+┌─────────────────────────────────────────────────────────────┐
+│  SYSTEM BREACH DETECTED                                     │
+│  target      : ashish_goswami.dev                           │
+│  status      : INFILTRATING...                              │
+└─────────────────────────────────────────────────────────────┘
 
-</p>
+[~] bypassing firewall           [██████████████████████] 100%
+[~] decrypting core_modules.enc  [██████████████████████] 100%
+[~] injecting payload            [██████████████████████] 100%
 
-<br/>
+  ╔═══════════════════════════════════════════════════════════╗
+  ║  MODULE_01 :: BUILDING  → production_software      [OK]   ║
+  ║  MODULE_02 :: LEARNING  → agentic_ai               [OK]   ║
+  ║  MODULE_03 :: PASSION   → open_source              [OK]   ║
+  ║  MODULE_04 :: MISSION   → build_that_matters       [OK]   ║
+  ╚═══════════════════════════════════════════════════════════╝
 
-<div align="center">
+[✓] ACCESS GRANTED
+[✓] core_belief.txt extracted ─┐
+                                ▼
+    "Code with purpose. Design with simplicity. Build for impact." 💙
 
-| 🏗️ **Building** | 🤖 **Learning** | ❤️ **Passionate About** | 🚀 **Mission** | 👀 **Explorer Count** |
-|:---------------:|:---------------:|:-----------------------:|:--------------:|:------------:|
-| Production Software | Agentic AI | Open Source | Build Things That Matter | <img src="https://komarev.com/ghpvc/?username=Ashish6298&style=flat-square&color=00d084&labelColor=0d1117" alt="Profile Views" /> |
+[~] connection secure. tunneling to /engineering-domains...
+```
 
-</div>
 
-<br/>
-
-> 💙 **"Code with purpose. Design with simplicity. Build for impact."**
-
-</td>
-</tr>
-</table><br>
-
-<table align="center" width="100%">
-<tr>
-<td>
+<br>
 
 <h2 align="center">
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Laptop/3D/laptop_3d.png" width="34">
@@ -57,344 +60,217 @@ Engineering Domains
 </h2>
 
 <p align="center">
-
-I enjoy building software across multiple domains, combining modern technologies with scalable architectures to create reliable, production-ready applications.
-
+<i>I enjoy building software across multiple domains, combining modern technologies with scalable architectures to create reliable, production-ready applications.</i>
 </p>
 
 <br>
 
-<table width="100%">
+<table align="center">
 <tr>
-
-<td width="50%" valign="top">
-
-### 📱 Mobile Engineering
-
-Building beautiful, high-performance cross-platform applications.
-
-- ⚡ Flutter
-- 🔥 Firebase
-- 🎨 Material Design
-- 📦 Android Studio
-- 🚀 Cross-Platform Apps
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Full Stack Development
-
-Developing scalable web platforms from frontend to backend.
-
-- ⚛️ React.js
-- 🟢 Node.js
-- 🗄️ MongoDB
-- 🔗 REST APIs
-- ☁️ Cloud Applications
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 Artificial Intelligence
-
-Creating intelligent systems that solve real-world problems.
-
-- 🧠 AI Applications
-- 🩺 Healthcare AI
-- 🤖 Large Language Models (LLMs)
-- 📊 Machine Learning
-- ⚡ AI Automation
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💻 Software Engineering
-
-Designing scalable, maintainable, and enterprise-grade systems.
-
-- 🏗️ System Design
-- 📦 Scalable Architecture
-- ⚙️ Backend Engineering
-- 🧩 Problem Solving
-- 🌍 Open Source
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<div align="left">
-
-> 💙 **Building software that is scalable, maintainable, and impactful—one project at a time.**
-
-</div>
-
-</td>
-</tr>
-</table>
-<br>
-
-<table align="center" width="100%">
-<tr>
+<td align="center" width="60">📱</td>
 <td>
+<b>Mobile Engineering</b><br/>
+Building beautiful, high-performance cross-platform applications.<br/>
+<code>Flutter</code> <code>Firebase</code> <code>Material Design</code> <code>Android Studio</code>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="60">🌐</td>
+<td>
+<b>Full Stack Development</b><br/>
+Developing scalable web platforms from frontend to backend.<br/>
+<code>React.js</code> <code>Node.js</code> <code>MongoDB</code> <code>REST APIs</code>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="60">🤖</td>
+<td>
+<b>Artificial Intelligence</b><br/>
+Creating intelligent systems that solve real-world problems.<br/>
+<code>AI Applications</code> <code>Healthcare AI</code> <code>LLMs</code> <code>Machine Learning</code>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="60">💻</td>
+<td>
+<b>Software Engineering</b><br/>
+Designing scalable, maintainable, and enterprise-grade systems.<br/>
+<code>System Design</code> <code>Scalable Architecture</code> <code>Backend Engineering</code> <code>Open Source</code>
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+💙 <b>Building software that is scalable, maintainable, and impactful — one project at a time.</b>
+</p>
+
+<br>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Toolbox/3D/toolbox_3d.png" width="34">
-  Languages & Tools
+<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Toolbox/3D/toolbox_3d.png" width="34">
+Languages & Tools
 </h2>
 
 <p align="center">
-  A curated collection of technologies, frameworks, platforms, AI tools, payment solutions, and developer tools that I use to design, build, deploy, and scale modern software solutions.
+<i>A curated collection of technologies, frameworks, platforms, and tools I use to design, build, deploy, and scale modern software.</i>
 </p>
 
 <br/>
 
-### 📱 Mobile Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,androidstudio,swift" />
-</p>
-
----
-
-### 🌐 Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vite" />
-</p>
-
----
-
-### ⚙️ Backend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,python,go,cs,dotnet,fastapi,django,flask" />
-</p>
-
----
-
-### 💻 Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,go,swift,dart" />
-</p>
-
----
-
-### 🗄️ Databases & Caching
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase,supabase" />
-</p>
-
----
-
-### 🤖 AI & LLMs
-
-<p align="center">
+<table align="center">
+<tr>
+<td align="left" width="180"><b>📱 Mobile</b></td>
+<td><img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,androidstudio,swift" /></td>
+</tr>
+<tr>
+<td align="left"><b>🌐 Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vite" /></td>
+</tr>
+<tr>
+<td align="left"><b>⚙️ Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,graphql,python,go,cs,dotnet,fastapi,django,flask" /></td>
+</tr>
+<tr>
+<td align="left"><b>💻 Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,go,swift,dart" /></td>
+</tr>
+<tr>
+<td align="left"><b>🗄️ Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase,supabase" /></td>
+</tr>
+<tr>
+<td align="left"><b>🤖 AI & LLMs</b></td>
+<td>
 <img src="https://api.iconify.design/simple-icons:openai.svg" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/anthropic/000000" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/meta/0467DF" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/githubcopilot/000000" width="40" height="40" />
-</p>
-
----
-
-### 💳 Payments & FinTech
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/stripe/635BFF" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/razorpay/3395FF" width="40" height="40" />
-</p>
-
----
-
-### 🔐 Authentication & Security
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
-  <img src="https://cdn.simpleicons.org/auth0/EB5424" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="40" height="40" />
-<img src="https://api.iconify.design/logos:oauth.svg" width="40" height="40" />
-</p>
-
----
-
-### ☁️ Cloud & DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,bash,nginx,cloudflare" />
-</p>
-
----
-
-### 🚀 Deployment & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,cloudflare,nginx,docker,linux" />
-  <img src="https://cdn.simpleicons.org/pm2/2B037A" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/render" width="40" height="40" />
-  <img src="https://cdn.simpleicons.org/railway" width="40" height="40" />
-</p>
-
----
-
-### 🔌 APIs & Integrations
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=graphql,postman" />
-<img src="https://api.iconify.design/logos:websocket.svg" width="40" height="40" />
-</p>
-
----
-
-### 🛠️ Developer Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,npm" />
-</p>
-
----
-
-### 🧩 Frameworks & Libraries
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,dotnet,nextjs,react" />
-</p>
-
----
-
-### 📦 Package Managers & Build Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,vite,webpack" />
-</p>
-
----
-
-### 🎨 UI / UX & Design
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,tailwind,sass" />
-</p>
-
----
-
-### 🔄 Version Control & Collaboration
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
-</p>
-
----
-
-### 📡 Communication & Cloud Services
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,cloudflare" />
-</p>
-
----
-
-### 🖥️ Operating Systems & Shell
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,windows" />
-</p>
-
-
-
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/anthropic/000000" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/meta/0467DF" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/githubcopilot/000000" width="40" height="40" />
 </td>
 </tr>
+<tr>
+<td align="left"><b>💳 Payments</b></td>
+<td>
+<img src="https://cdn.simpleicons.org/stripe/635BFF" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/razorpay/3395FF" width="40" height="40" />
+</td>
+</tr>
+<tr>
+<td align="left"><b>🔐 Auth & Security</b></td>
+<td>
+<img src="https://cdn.simpleicons.org/auth0/EB5424" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="40" height="40" />
+<img src="https://api.iconify.design/logos:oauth.svg" width="40" height="40" />
+</td>
+</tr>
+<tr>
+<td align="left"><b>☁️ Cloud & DevOps</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,bash,nginx,cloudflare,vercel,netlify,railway" /></td>
+</tr>
+<tr>
+<td align="left"><b>🔌 APIs</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=graphql,postman" />
+<img src="https://api.iconify.design/logos:websocket.svg" width="40" height="40" />
+</td>
+</tr>
+<tr>
+<td align="left"><b>🛠️ Dev Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,npm" /></td>
+</tr>
+<tr>
+<td align="left"><b>🧩 Frameworks</b></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,dotnet,nextjs,react" /></td>
+</tr>
+<tr>
+<td align="left"><b>📦 Build Tools</b></td>
+<td><img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,vite,webpack" /></td>
+</tr>
+<tr>
+<td align="left"><b>🎨 UI / UX</b></td>
+<td><img src="https://skillicons.dev/icons?i=figma,tailwind,sass" /></td>
+</tr>
+<tr>
+<td align="left"><b>🖥️ OS & Shell</b></td>
+<td><img src="https://skillicons.dev/icons?i=linux,bash,windows" /></td>
+</tr>
 </table>
+
+<br>
+<h2 align="center">Current Sprint</h2>
+
+<p align="center">
+<i>A live view into what I'm learning, building, shipping, and have shipped.</i>
+</p>
+
+<br>
+
+<table align="center"><tr>
+<td><img src="https://img.shields.io/badge/STATUS-Always%20Building-00d084?style=social&logo=rocket" /></td>
+<td><img src="https://img.shields.io/badge/FOCUS-Agentic%20AI-818cf8?style=social&logo=openai" /></td>
+<td><img src="https://img.shields.io/badge/POWER-Coffee%20%2B%20Curiosity-f59e0b?style=social&logo=buymeacoffee" /></td>
+</tr></table>
 
 <br>
 
 <table align="center" width="100%">
 <tr>
-<td>
+<td width="25%" valign="top">
 
-<h2 align="center">
+<h4 align="center">🌱 Learning</h4>
 
-Current Sprint
-</h2>
+<table width="100%"><tr><td>Agentic AI</td></tr></table>
+<table width="100%"><tr><td>Distributed Systems</td></tr></table>
+<table width="100%"><tr><td>Advanced Cloud</td></tr></table>
+<table width="100%"><tr><td>LLM Fine-tuning</td></tr></table>
 
-<p align="center">
-A live view into what I'm learning, building, shipping, and have shipped.
-</p>
+</td>
+<td width="25%" valign="top">
 
-<br>
+<h4 align="center">🔨 Building</h4>
 
-<div align="center">
+<table width="100%"><tr><td>AI-powered Apps</td></tr></table>
+<table width="100%"><tr><td>System Architecture</td></tr></table>
+<table width="100%"><tr><td>DevOps Pipelines</td></tr></table>
+<table width="100%"><tr><td>K8s Orchestration</td></tr></table>
 
-<span style="white-space: nowrap;">
+</td>
+<td width="25%" valign="top">
 
-![](https://img.shields.io/badge/STATUS-Always%20Building-00d084?style=for-the-badge&labelColor=0d1117) &nbsp; ![](https://img.shields.io/badge/FOCUS-Agentic%20AI%20%E2%80%A2%20Distributed%20Systems-818cf8?style=for-the-badge&labelColor=0d1117) &nbsp; ![](https://img.shields.io/badge/POWER-Coffee%20%2B%20Curiosity%20%E2%80%A2%20%E2%88%9E-f59e0b?style=for-the-badge&labelColor=0d1117)
+<h4 align="center">🚀 Shipping</h4>
 
-</span>
+<table width="100%"><tr><td>Full Stack Platforms</td></tr></table>
+<table width="100%"><tr><td>Mobile Apps</td></tr></table>
+<table width="100%"><tr><td>Cloud Deployments</td></tr></table>
+<table width="100%"><tr><td>Open Source Modules</td></tr></table>
 
-</div>
-<br>
+</td>
+<td width="25%" valign="top">
 
-<table align="center" width="100%">
-  <tr>
-    <th align="center" width="25%">🌱&nbsp;Learning</th>
-    <th align="center" width="25%">🔨&nbsp;Building</th>
-    <th align="center" width="25%">🚀&nbsp;Shipping</th>
-    <th align="center" width="25%">✅&nbsp;Mastered</th>
-  </tr>
-  <tr>
-    <td align="left" valign="top"><br>
-      Agentic AI<br><br>
-      Distributed Systems<br><br>
-      Advanced Cloud<br><br>
-      LLM Fine-tuning<br><br>
-    </td>
-    <td align="left" valign="top"><br>
-      AI-powered Apps<br><br>
-      System Architecture<br><br>
-      DevOps Pipelines<br><br>
-      K8s Orchestration<br><br>
-    </td>
-    <td align="left" valign="top"><br>
-      Full Stack Platforms<br><br>
-      Mobile Apps<br><br>
-      Cloud Deployments<br><br>
-      Open Source Modules<br><br>
-    </td>
-    <td align="left" valign="top"><br>
-      Flutter &amp; Dart<br><br>
-      React / Next.js<br><br>
-      Node.js &amp; Firebase<br><br>
-      REST &amp; GraphQL<br><br>
-    </td>
-  </tr>
-</table>
+<h4 align="center">✅ Mastered</h4>
 
-<br>
-
-<div align="left">
-
->  _"Building systems that **think**, architectures that **scale**, and software that actually **matters**."_
-
-</div>
+<table width="100%"><tr><td>Flutter &amp; Dart</td></tr></table>
+<table width="100%"><tr><td>React / Next.js</td></tr></table>
+<table width="100%"><tr><td>Node.js &amp; Firebase</td></tr></table>
+<table width="100%"><tr><td>REST &amp; GraphQL</td></tr></table>
 
 </td>
 </tr>
 </table>
 
+<p align="center">
+<i>"Building systems that <b>think</b>, architectures that <b>scale</b>, and software that actually <b>matters</b>."</i>
+</p>
+
+
 <br>
+
+
 <table align="center" width="100%">
 
 <tr>
