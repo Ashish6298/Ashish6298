@@ -2,6 +2,11 @@
 <img src="https://res.cloudinary.com/dl9kcah0x/image/upload/v1790762196/ezgif.com-gif-maker_d6qicm.gif" width="100%"/>
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashish6298&style=plastic&color=00d084&labelColor=0d1117" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Ashish6298?label=Followers&style=plastic&color=00d084&labelColor=0d1117&logo=github" alt="GitHub Followers" />
+</div>
+
 <br>
 
 ```yaml
@@ -20,7 +25,6 @@ whoami:
 <h2 align="center">
 <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="34">
 Engineering Playground
-<img src="https://komarev.com/ghpvc/?username=Ashish6298&style=plastic&color=00d084&labelColor=0d1117" alt="Profile Views" />
 </h2>
 
 ```bash
