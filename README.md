@@ -141,7 +141,7 @@ Languages & Tools
 </tr>
 <tr>
 <td align="left"><b>💻 Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,go,swift,dart" /></td>
+<td><img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,go,swift,dart,rust,ruby,elixir" /></td>
 </tr>
 <tr>
 <td align="left"><b>🗄️ Databases</b></td>
@@ -203,9 +203,7 @@ Languages & Tools
 <td align="left"><b>🖥️ OS & Shell</b></td>
 <td><img src="https://skillicons.dev/icons?i=linux,bash,windows" /></td>
 </tr>
-</table>
-
-<br>
+</table><br>
 <h2 align="center">Current Sprint</h2>
 
 <p align="center">
