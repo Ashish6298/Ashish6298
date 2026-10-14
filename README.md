@@ -115,13 +115,14 @@ Designing scalable, maintainable, and enterprise-grade systems.<br/>
 
 <br>
 
+
 <h2 align="center">
-<img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Toolbox/3D/toolbox_3d.png" width="34">
-Languages & Tools
+  <img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Toolbox/3D/toolbox_3d.png" width="34">
+  Languages & Tools
 </h2>
 
 <p align="center">
-<i>A curated collection of technologies, frameworks, platforms, and tools I use to design, build, deploy, and scale modern software.</i>
+  <i>A curated collection of technologies, frameworks, platforms, and tools I use to design, build, deploy, and scale modern software.</i>
 </p>
 
 <br/>
@@ -131,22 +132,29 @@ Languages & Tools
 <td align="left" width="180"><b>📱 Mobile</b></td>
 <td><img src="https://skillicons.dev/icons?i=flutter,dart,firebase,kotlin,java,androidstudio,swift" /></td>
 </tr>
+
 <tr>
 <td align="left"><b>🌐 Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vite" /></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs,vite,vue" /></td>
 </tr>
+
 <tr>
 <td align="left"><b>⚙️ Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,graphql,python,go,cs,dotnet,fastapi,django,flask" /></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,graphql,python,go,cs,dotnet,fastapi,django,flask,laravel" />
+<img src="https://cdn.simpleicons.org/fastify/16A5A3" width="40" height="40" />
+</td>
 </tr>
+
 <tr>
 <td align="left"><b>💻 Languages</b></td>
 <td><img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,ts,go,swift,dart,rust,ruby,elixir" /></td>
 </tr>
+
 <tr>
 <td align="left"><b>🗄️ Databases</b></td>
-<td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase,supabase" /></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase,supabase,prisma,mongoose" /></td>
 </tr>
+
 <tr>
 <td align="left"><b>🤖 AI & LLMs</b></td>
 <td>
@@ -155,8 +163,10 @@ Languages & Tools
 <img src="https://cdn.simpleicons.org/anthropic/000000" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/meta/0467DF" width="40" height="40" />
 <img src="https://cdn.simpleicons.org/githubcopilot/000000" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/ollama/000000" width="40" height="40" />
 </td>
 </tr>
+
 <tr>
 <td align="left"><b>💳 Payments</b></td>
 <td>
@@ -164,6 +174,7 @@ Languages & Tools
 <img src="https://cdn.simpleicons.org/razorpay/3395FF" width="40" height="40" />
 </td>
 </tr>
+
 <tr>
 <td align="left"><b>🔐 Auth & Security</b></td>
 <td>
@@ -172,38 +183,78 @@ Languages & Tools
 <img src="https://api.iconify.design/logos:oauth.svg" width="40" height="40" />
 </td>
 </tr>
+
 <tr>
 <td align="left"><b>☁️ Cloud & DevOps</b></td>
 <td><img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,bash,nginx,cloudflare,vercel,netlify,railway" /></td>
 </tr>
+
 <tr>
-<td align="left"><b>🔌 APIs</b></td>
+<td align="left"><b>🔌 APIs & Docs</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=graphql,postman" />
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/bruno/ F4AA41" width="40" height="40" />
 <img src="https://api.iconify.design/logos:websocket.svg" width="40" height="40" />
 </td>
 </tr>
+
+<tr>
+<td align="left"><b>🧪 Testing</b></td>
+<td>
+<img src="https://cdn.simpleicons.org/cypress/69D3A7" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/selenium/43B02A" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/puppeteer/40B5A4" width="40" height="40" />
+<img src="https://cdn.simpleicons.org/locust/16A5A3" width="40" height="40" />
+</td>
+</tr>
+
 <tr>
 <td align="left"><b>🛠️ Dev Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,npm" /></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,npm,bun,electron" />
+<img src="https://cdn.simpleicons.org/bruno/F4AA41" width="40" height="40" />
+</td>
 </tr>
+
 <tr>
 <td align="left"><b>🧩 Frameworks</b></td>
-<td><img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,dotnet,nextjs,react" /></td>
+<td><img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express,dotnet,nextjs,react,vue,laravel" />
+<img src="https://cdn.simpleicons.org/fastify/16A5A3" width="40" height="40" />
+</td>
 </tr>
+
 <tr>
 <td align="left"><b>📦 Build Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,vite,webpack" /></td>
+<td><img src="https://skillicons.dev/icons?i=npm,yarn,pnpm,vite,webpack,bun" />
+<img src="https://cdn.simpleicons.org/pm2/16A5A3" width="40" height="40" />
+</td>
 </tr>
+
 <tr>
 <td align="left"><b>🎨 UI / UX</b></td>
 <td><img src="https://skillicons.dev/icons?i=figma,tailwind,sass" /></td>
 </tr>
+
 <tr>
 <td align="left"><b>🖥️ OS & Shell</b></td>
 <td><img src="https://skillicons.dev/icons?i=linux,bash,windows" /></td>
 </tr>
-</table><br>
+
+<tr>
+<td align="left"><b>🔄 Real-time</b></td>
+<td><img src="https://cdn.simpleicons.org/socketdotio/010101" width="40" height="40" /></td>
+</tr>
+
+<tr>
+<td align="left"><b>🚀 CI/CD</b></td>
+<td><img src="https://skillicons.dev/icons?i=githubactions" /></td>
+</tr>
+</table>
+
+<br>
+
 <h2 align="center">Current Sprint</h2>
 
 <p align="center">
