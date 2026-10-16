@@ -511,7 +511,7 @@ Whether you have an idea, an opportunity, or just want to say hello—I'd love t
   <img src="https://img.icons8.com/fluency/96/github.png" width="55" alt="GitHub"/>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://portfolio-omega-sand-67.vercel.app/">
+<a href="https://ashishgoswami.vercel.app/">
   <img src="https://img.icons8.com/fluency/96/domain.png" width="55" alt="Portfolio"/>
 </a>&nbsp;&nbsp;&nbsp;
 
